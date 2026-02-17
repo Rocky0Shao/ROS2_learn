@@ -1,0 +1,21 @@
+# ===== ROS 2 / colcon =====
+build/
+install/
+log/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Virtual environments =====
+.venv/
+venv/
+
+# ===== IDEs =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
+
